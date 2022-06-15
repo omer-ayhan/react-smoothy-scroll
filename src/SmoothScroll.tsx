@@ -15,7 +15,7 @@ const SmoothScroll = ({
 	toRef,
 	duration,
 	children,
-	allowScroll = false,
+	allowScroll = true,
 	...rest
 }: Props) => {
 	const handleClick = () =>

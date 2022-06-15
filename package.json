@@ -1,14 +1,14 @@
 {
 	"name": "react-smoothy-scroll",
 	"version": "0.9.0",
-	"description": "smooth scroll package for reactjs",
+	"description": "my own npm package smooth scroll in reactjs",
 	"keywords": [
 		"react",
 		"scroll",
 		"smooth"
 	],
 	"homepage": "https://github.com/omer-ayhan/react-smoothy-scroll.git#readme",
-	"main": "index.js",
+	"main": "index.tsx",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/omer-ayhan/react-smoothy-scroll.git"
