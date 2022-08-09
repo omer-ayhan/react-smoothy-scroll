@@ -1,4 +1,4 @@
-import { memo } from "react";
+import React, { memo } from "react";
 import { scrollTo } from "./scrollTo";
 
 interface Props {
@@ -7,7 +7,6 @@ interface Props {
 	duration?: number;
 	children: JSX.Element | JSX.Element[];
 	allowScroll?: boolean;
-	sx?: object;
 }
 
 const SmoothScroll = ({
