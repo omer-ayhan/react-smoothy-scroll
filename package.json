@@ -1,6 +1,6 @@
 {
 	"name": "react-smoothy-scroll",
-	"version": "0.9.0",
+	"version": "0.9.1",
 	"description": "my own npm package smooth scroll in reactjs",
 	"keywords": [
 		"react",
