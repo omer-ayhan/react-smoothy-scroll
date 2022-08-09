@@ -2,7 +2,7 @@
 
 <a href="https://www.npmjs.com/package/react-smoothy-scroll"><img src="https://img.shields.io/badge/0.9.2-%20npm-brightgreen" alt="NPM version"></a>
 
-### Smooth scrolling for React.js with easy to use component
+### Smooth scrolling for React.js with easy to use component(Not supported in React Native)
 
 #
 
